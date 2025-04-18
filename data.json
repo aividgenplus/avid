@@ -1,1 +1,62 @@
-[{"name":"Action Scene","Prompt":"Place the person in the photo in a cinematic action scene","thumbnail":"https://i.imgur.com/HKNC4Xx.jpeg","numberOfImages":1},{"name":"Superheros","Prompt":"Transform the people in the picture into superheroes with capes and costumes.","thumbnail":"https://i.imgur.com/Y7LuJJj.jpeg","numberOfImages":2},{"name":"Vintage","Prompt":"Convert the image to have a vintage sepia tone filter from the 1920s era.","thumbnail":"https://i.imgur.com/cmpRKk4.jpeg","numberOfImages":2},{"name":"Fantasy World","Prompt":"Place the people from the picture in a magical fantasy world with dragons and castles.","thumbnail":"https://i.imgur.com/ixzHH7l.jpeg","numberOfImages":2},{"name":"Cartoon","Prompt":"Transform the people in the picture into animated cartoon characters.","thumbnail":"https://i.imgur.com/DtyLEnm.jpeg","numberOfImages":2},{"name":"Professional","Prompt":"Make the people in the picture look like business professionals in a corporate setting.","thumbnail":"https://i.imgur.com/udAsgUt.jpeg","numberOfImages":2},{"name":"Beach Vacation","Prompt":"Place the people from the picture on a tropical beach with palm trees and ocean waves.","thumbnail":"https://i.imgur.com/WFYNODS.jpeg","numberOfImages":2},{"name":"Winter Wonderland","Prompt":"Place the people from the picture in a snowy winter landscape with falling snowflakes.","thumbnail":"https://i.imgur.com/yGMK966.jpeg","numberOfImages":2},{"name":"Cyberpunk","Prompt":"Transform the people and setting into a futuristic cyberpunk world with neon lights.","thumbnail":"https://i.imgur.com/anraWVX.jpeg","numberOfImages":2},{"name":"Pet Addition","Prompt":"Add cute pets like dogs or cats next to the people in the picture.","thumbnail":"https://i.imgur.com/ncEEKEG.jpeg","numberOfImages":2}]
+[
+  {
+    "name": "Space Explorer",
+    "Prompt": "Transform the person into an astronaut exploring an alien planet with vibrant landscapes",
+    "thumbnail": "https://i.imgur.com/EAu3Odv.jpeg",
+    "numberOfImages": 1
+  },
+  {
+    "name": "Time Travel",
+    "Prompt": "Place the people in different historical eras with appropriate clothing and surroundings",
+    "thumbnail": "https://i.imgur.com/eh2Nsd9.jpeg",
+    "numberOfImages": 2
+  },
+  {
+    "name": "Mythical Creatures",
+    "Prompt": "Transform the person into a mythical creature like a mermaid, centaur, or fairy in a magical environment",
+    "thumbnail": "https://i.imgur.com/2k1DDil.jpeg",
+    "numberOfImages": 1
+  },
+  {
+    "name": "Food Fantasy",
+    "Prompt": "Place the people in a world made entirely of food with candy clouds and chocolate rivers",
+    "thumbnail": "https://i.imgur.com/wzJaRSB.jpeg",
+    "numberOfImages": 2
+  },
+  {
+    "name": "Steampunk Adventure",
+    "Prompt": "Transform the people into steampunk explorers with brass gadgets and Victorian-inspired clothing",
+    "thumbnail": "https://i.imgur.com/tdsU8b0.jpeg",
+    "numberOfImages": 2
+  },
+  {
+    "name": "Underwater Kingdom",
+    "Prompt": "Place the person in an underwater civilization with coral castles and sea creatures",
+    "thumbnail": "https://i.imgur.com/FSDSssH.jpeg",
+    "numberOfImages": 1
+  },
+  {
+    "name": "Superhero Rivals",
+    "Prompt": "Transform the two people into rival superheroes with contrasting powers and costumes in an epic face-off",
+    "thumbnail": "https://i.imgur.com/FgxYenr.jpeg",
+    "numberOfImages": 2
+  },
+  {
+    "name": "Wild West",
+    "Prompt": "Place the people in the American Wild West as cowboys or outlaws with dusty landscapes and saloons",
+    "thumbnail": "https://i.imgur.com/d46SxGf.jpeg",
+    "numberOfImages": 2
+  },
+  {
+    "name": "Magical Potion",
+    "Prompt": "Transform the person into a wizard brewing colorful magical potions in an enchanted laboratory",
+    "thumbnail": "https://i.imgur.com/aUTVR3T.jpeg",
+    "numberOfImages": 1
+  },
+  {
+    "name": "80s Retro",
+    "Prompt": "Place the people in a vibrant 1980s scene with neon colors, classic electronics, and retro fashion",
+    "thumbnail": "https://i.imgur.com/VinXvpS.jpeg",
+    "numberOfImages": 2
+  }
+]
